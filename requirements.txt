@@ -1,0 +1,3 @@
+adafruit_dotstar==2.1.1
+adafruit_hid==5.2.1
+adafruit_led_animation==2.5.11
