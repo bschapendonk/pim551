@@ -128,6 +128,12 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-.vscode/
+# CircuitPython
+.fseventsd/
+System Volume Information/
+.metadata_never_index
+.Trashes
+boot_out.txt
 
-!lib/keybow2040
+.vscode/
+!lib/keybow2040/

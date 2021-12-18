@@ -23,8 +23,8 @@
 # NOTE! Requires the adafruit_hid CircuitPython library also!
 
 import time
-from keybow2040 import Keybow2040
-from keybow_hardware.pim551 import PIM551 as Hardware # for Pico RGB Keypad Base
+from keybow2040.keybow2040 import Keybow2040
+from keybow2040.keybow_hardware.pim551 import PIM551 as Hardware # for Pico RGB Keypad Base
 
 import usb_hid
 from adafruit_hid.keyboard import Keyboard
