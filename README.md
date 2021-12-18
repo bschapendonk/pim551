@@ -7,8 +7,12 @@ Pimoroni Pico RGB Keypad Base using CircuitPython on Raspberry Pi Pico
     ```
     gitdir: <path-to-your-usual-place>\.git
     ```
-3. On your CIRCUITPY device run `git checkout main`
-
+3. On your CIRCUITPY device run
+    ```
+    git checkout main
+    git reset --hard HEAD
+    ```
+   
 ## Instal libraries using [CircUp](https://github.com/adafruit/circup)
 1. Install CircUp
     * For Linux

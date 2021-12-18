@@ -89,6 +89,7 @@ layers =      {1: layer_1,
 
 # Define the modifier key and layer selector keys
 modifier = keys[0]
+modifier.hold_time = 0.1
 
 selectors =   {1: keys[1],
                2: keys[2],
