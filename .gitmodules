@@ -1,3 +1,0 @@
-[submodule "lib/keybow2040"]
-	path = lib/keybow2040
-	url = https://github.com/pimoroni/keybow2040-circuitpython.git
